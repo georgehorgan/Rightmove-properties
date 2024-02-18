@@ -209,7 +209,7 @@ properties.columns = columns
 properties.head()
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ccc467b0-3826-4acf-9b3d-e71ae5c53dea/Untitled.png)
+![](https://github.com/georgehorgan/Rightmove-properties/blob/main/images/rightmove_img1.png)
 
 ### **Data cleaning:**
 
@@ -309,7 +309,7 @@ properties["Postcode"]= properties["Location"].apply(extract_postcode)
 null_values(properties)
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cda5ffac-bbcb-4868-b1aa-209ef0ddd166/Untitled.png)
+![](https://github.com/georgehorgan/Rightmove-properties/blob/main/images/rightmove_img2.png)
 
 ```python
 properties.drop(columns = "Postcode", inplace = True) 
@@ -469,7 +469,7 @@ for x in range(len(data)):
 data.head()
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f43d4479-c25b-4c4f-b43d-4851008b56c1/Untitled.png)
+![](https://github.com/georgehorgan/Rightmove-properties/blob/main/images/rightmove_img3.png)
 
 ```python
 new_file = r"C:\Users\georg\Desktop\Development\Data Centre\DataPython\Projects\London Rent Prices\geocords.csv"
@@ -485,21 +485,21 @@ data.to_csv(new_file)
 
 Power BI - No filter on report
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a50deec-fca5-4f9e-8990-57cc0511d817/Untitled.png)
+![](https://github.com/georgehorgan/Rightmove-properties/blob/main/images/rightmove_img4.png)
 
 Power BI - Filtered by Apartment
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e067923-8f56-4147-b710-83876de8e7d6/Untitled.png)
+![](https://github.com/georgehorgan/Rightmove-properties/blob/main/images/rightmove_img5.png)
 
 Power BI - Filtered by House
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7137dd28-cb6b-4391-8a85-299d1b9069cb/Untitled.png)
+![](https://github.com/georgehorgan/Rightmove-properties/blob/main/images/rightmove_img6.png)
 
 For access to the file:  [Power BI file](https://www.dropbox.com/scl/fi/iyykvcr3wytwygnyz2apx/rightmove.pbix?rlkey=0byczbzc05j27sa812ss1fmfq&dl=0)
 
 ### Tableau Viz:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b766071-c9ae-422d-83d0-4c4e8a2099f3/Untitled.png)
+![](https://github.com/georgehorgan/Rightmove-properties/blob/main/images/rightmove_img7.png)
 
 Full version: [Tableau Viz](https://public.tableau.com/app/profile/george.horgan/viz/LondonpropertiesfromRightmovefilteredbypricepermonth/Sheet1)
 
