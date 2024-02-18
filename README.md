@@ -503,7 +503,7 @@ For access to the file:  [Power BI file](https://www.dropbox.com/scl/fi/iyykvcr3
 
 Full version: [Tableau Viz](https://public.tableau.com/app/profile/george.horgan/viz/LondonpropertiesfromRightmovefilteredbypricepermonth/Sheet1)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c46d0eef-ae8c-498f-8276-d8e743b93eb1/Untitled.png)
+![]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c46d0eef-ae8c-498f-8276-d8e743b93eb1/Untitled.png](https://github.com/georgehorgan/Rightmove-properties/blob/main/images/rightmove_img8.png))
 
 Full version: [Tableau Viz [2]](https://public.tableau.com/app/profile/george.horgan/viz/Rightmovesample-top10mostvsleastexpensivepropertiesforsale/Sheet1)
 
@@ -514,6 +514,4 @@ We found there are far more apartments/flats in London than any other living spa
 We found little correlation between house prices and number of bedrooms, no relationship at all when reaching 4+ bedrooms.
 
 Richer areas are far more concentrated within the city, whereas the cheaper area are more widely spread.
-
-![AS Logo.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb1ed7f3-a21c-4b99-8b19-1f1105bec358/AS_Logo.png)
 
