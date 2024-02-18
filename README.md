@@ -503,7 +503,7 @@ For access to the file:  [Power BI file](https://www.dropbox.com/scl/fi/iyykvcr3
 
 Full version: [Tableau Viz](https://public.tableau.com/app/profile/george.horgan/viz/LondonpropertiesfromRightmovefilteredbypricepermonth/Sheet1)
 
-![]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c46d0eef-ae8c-498f-8276-d8e743b93eb1/Untitled.png](https://github.com/georgehorgan/Rightmove-properties/blob/main/images/rightmove_img8.png))
+![](https://github.com/georgehorgan/Rightmove-properties/blob/main/images/rightmove_img8.png)
 
 Full version: [Tableau Viz [2]](https://public.tableau.com/app/profile/george.horgan/viz/Rightmovesample-top10mostvsleastexpensivepropertiesforsale/Sheet1)
 
